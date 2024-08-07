@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anand-gopinath
 - 👀 Doing Frontend engineering 
-- 📫 How to reach me ...https://www.reachoutanandgopinath.com
+- 📫 How to reach me ...[https://www.reachoutanandgopinath.com](https://reachoutanandgopin.wixsite.com/reachoutanandgopinat)
 
 <!---
 anand-gopinath/anand-gopinath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
